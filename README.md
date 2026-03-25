@@ -1,8 +1,8 @@
-# LC1
+# LCP1
 
 ## Description
 
-Laboratorio di Calcolo I by Giusti
+Code developed for the course 'Laboratory of Computational Physics I'
 
 ## Dependencies
 
